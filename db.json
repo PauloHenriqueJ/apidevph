@@ -2,7 +2,7 @@
     "hardware": [
       {
         "id": 1,
-        "snack": "hardware",
+        "produto": "hardware",
         "name": "Placa mãe Fatall1ty B360M",
         "description": "Suporta processador Intel Core 8g e 9g socket 1151.",
         "price": 889.99,
@@ -10,7 +10,7 @@
       },
       {
         "id": 2,
-        "snack": "hardware",
+        "produto": "hardware",
         "name": "Memoria DDR4",
         "description": "Memoria Hyper Fury 8GB RGB",
         "price": 159.99,
@@ -18,7 +18,7 @@
       },
       {
         "id": 3,
-        "snack": "hardware",
+        "produto": "hardware",
         "name": "Placa de Video RTX 3060 Ti",
         "description": "Placa de video AUROS Gerfoce RTX 3060 Ti Master 8gb.",
         "price": 2599.99,
@@ -26,7 +26,7 @@
       },
       {
         "id": 4,
-        "snack": "hardware",
+        "produto": "hardware",
         "name": "Placa de video RTX 3070",
         "description": "Asus Gerfoce RTX 3070 Dual OC V2 8GB.",
         "price": 2999.99,
@@ -34,7 +34,7 @@
       },
       {
         "id": 5,
-        "snack": "hardware",
+        "produto": "hardware",
         "name": "Water Coller ARGB Intel e AMD",
         "description": "Para refrigerar seu processador",
         "price": 249.99,
@@ -45,7 +45,7 @@
     "perifericos": [
       {
         "id": 1,
-        "snack": "perifericos",
+        "produto": "perifericos",
         "name": "Mouse Game",
         "description": "Mouse Gamer Redragon 7200 dpi feito para jogos.",
         "price": 89.99,
@@ -53,7 +53,7 @@
       },
       {
         "id": 2,
-        "snack": "perifericos",
+        "produto": "perifericos",
         "name": "Teclado Mecânico",
         "description": "Teclado mecânico gamer redragon Dark Aryaman.",
         "price": 199.99,
@@ -61,7 +61,7 @@
       },
       {
         "id": 3,
-        "snack": "perifericos",
+        "produto": "perifericos",
         "name": "Teclado Mecânico gaming",
         "description": "Mecânico gaming- Hyperion x1",
         "price": 24,
@@ -69,7 +69,7 @@
       },
       {
         "id": 4,
-        "snack": "perifericos",
+        "produto": "perifericos",
         "name": "WebCam Logitech",
         "description": "Webcam Logitech Full HD",
         "price": 89.99,
@@ -77,7 +77,7 @@
       },
       {
         "id": 5,
-        "snack": "perifericos",
+        "produto": "perifericos",
         "name": "Controle para Pc ",
         "description": " Usb - Multilaser ",
         "price": 49.90,
@@ -85,7 +85,7 @@
       },
       {
         "id": 6,
-        "snack": "perifericos",
+        "produto": "perifericos",
         "name": "Pen Driver Kingston 64GB",
         "description": "Dt50 Usb 3.0.",
         "price": 69.90,
@@ -93,7 +93,7 @@
       },
       {
         "id": 7,
-        "snack": "perifericos",
+        "produto": "perifericos",
         "name": "Pen Driver Kingston 128GB",
         "description": "Usb 3.0 DT100G3.",
         "price": 99.90,
@@ -101,7 +101,7 @@
       },
       {
         "id": 8,
-        "snack": "perifericos",
+        "produto": "perifericos",
         "name": "Microfone Gamer",
         "description": "Microfone gamer p2",
         "price": 109.90,
@@ -112,7 +112,7 @@
     "impressora": [
       {
         "id": 1,
-        "snack": "impressora",
+        "produto": "impressora",
         "name": "Multifuncional Epson L850",
         "description": "Multifuncional Epson Eco Tank L850",
         "price": 1500.00,
@@ -120,7 +120,7 @@
       },
       {
         "id": 2,
-        "snack": "impressora",
+        "produto": "impressora",
         "name": "Impressora Epson L455",
         "description": "impressora Eco Tank L455",
         "price": 999.99,
@@ -128,7 +128,7 @@
       },
       {
         "id": 3,
-        "snack": "impressora",
+        "produto": "impressora",
         "name": "Impressora Epson adds cartridge",
         "description": "impressora Eco Tank",
         "price": 8,
@@ -136,7 +136,7 @@
       },
       {
         "id": 4,
-        "snack": "impressora",
+        "produto": "impressora",
         "name": "Impressora HP Deskjet Multifuncional GT 5822",
         "description": "HP Deskjet Multifuncional GT 5822 Wi-fi",
         "price": 850.00,
@@ -147,7 +147,7 @@
     "computador": [
       {
         "id": 1,
-        "snack": "computador",
+        "produto": "computador",
         "name": "Computador Gamer",
         "description": "Pc Gamer AMD A6-7480 8gb ddr3 HD 1tb ssd 120gb",
         "price": 2500.99,
@@ -155,7 +155,7 @@
       },
       {
         "id": 2,
-        "snack": "computador",
+        "produto": "computador",
         "name": "PC Gamer completo AMD Ryzen 5 5600X",
         "description": "Pc completo .",
         "price": 3200.00,
@@ -163,7 +163,7 @@
       },
       {
         "id": 3,
-        "snack": "computador",
+        "produto": "computador",
         "name": "PC Gamer AMD",
         "description": "AMD Ryzen 5 5400G",
         "price": 1999.99,
@@ -171,7 +171,7 @@
       },
       {
         "id": 4,
-        "snack": "computador",
+        "produto": "computador",
         "name": "Pc Gamer evolution ",
         "description": "Evolución del Computador timeline",
         "price": 2299.90,
@@ -179,7 +179,7 @@
       },
       {
         "id": 5,
-        "snack": "computador",
+        "produto": "computador",
         "name": "PC Gamer AMD",
         "description": "Pc gamer completo, monitor, teclado, mouse",
         "price": 4999.99,
