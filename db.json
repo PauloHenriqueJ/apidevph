@@ -1,6 +1,15 @@
 {
     "hardware": [
       {
+        "id": 0,
+        "produto": "hardware",
+        "name": "Fonte Corsair",
+        "description": "Fonte Corsair Real",
+        "price": 250.00,
+        "image": "https://i.imgur.com/BhL6XdK.jpg"
+      },
+      
+      {
         "id": 1,
         "produto": "hardware",
         "name": "Placa mãe Fatall1ty B360M",
@@ -39,6 +48,38 @@
         "description": "Para refrigerar seu processador",
         "price": 249.99,
         "image": "https://i.imgur.com/wzITaKY.jpg"
+      },
+      {
+        "id": 6,
+        "produto": "hardware",
+        "name": "Kit Memoria DDR4 64GB",
+        "description": "Kit memoria DDR4 64GB 4x16 5200mhz",
+        "price": 1149.99,
+        "image": "https://i.imgur.com/snHQoxv.jpg"
+      },
+      {
+        "id": 7,
+        "produto": "hardware",
+        "name": "Placa mae B450 Stell LEGEND",
+        "description": "Placa mae AMD ",
+        "price": 749.99,
+        "image": "https://i.imgur.com/M0wtXxE.jpg"
+      },
+      {
+        "id": 8,
+        "produto": "hardware",
+        "name": "Fonte Corsair VS500w",
+        "description": "Fonte Corsair VS500w",
+        "price": 299.99,
+        "image": "https://i.imgur.com/BhL6XdK.jpg"
+      },
+      {
+        "id": 9,
+        "produto": "hardware",
+        "name": "Water Placa mae B460M Pro4",
+        "description": "Placa mae Processadores Intel",
+        "price": 949.99,
+        "image": "https://i.imgur.com/ZWMpf7g.jpg"
       }
     ],
   
