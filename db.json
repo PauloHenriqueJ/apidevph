@@ -3,9 +3,9 @@
       {
         "id": 0,
         "produto": "hardware",
-        "name": "Fonte Corsair",
+        "name": "Fonte Corsair vs500W",
         "description": "Fonte Corsair Real",
-        "price": 250.00,
+        "price": 289.90,
         "image": "https://i.imgur.com/BhL6XdK.jpg"
       },
       
@@ -13,14 +13,14 @@
         "id": 1,
         "produto": "hardware",
         "name": "Placa mãe Fatall1ty B360M",
-        "description": "Suporta processador Intel Core 8g e 9g socket 1151.",
+        "description": "Suporta processador Intel Core 8geração e 9geração socket 1151.",
         "price": 889.99,
         "image": "https://i.imgur.com/jX8fgAC.jpg"
       },
       {
         "id": 2,
         "produto": "hardware",
-        "name": "Memoria DDR4",
+        "name": "Memoria DDR4 8GB",
         "description": "Memoria Hyper Fury 8GB RGB",
         "price": 159.99,
         "image": "https://i.imgur.com/lFpivRl.jpg"
@@ -30,7 +30,7 @@
         "produto": "hardware",
         "name": "Placa de Video RTX 3060 Ti",
         "description": "Placa de video AUROS Gerfoce RTX 3060 Ti Master 8gb.",
-        "price": 2599.99,
+        "price": 3299.99,
         "image": "https://i.imgur.com/WttB3kk.jpg"
       },
       {
@@ -60,7 +60,7 @@
       {
         "id": 7,
         "produto": "hardware",
-        "name": "Placa mae B450 Stell LEGEND",
+        "name": "Placa mãe B450 Stell LEGEND",
         "description": "Placa mae AMD ",
         "price": 749.99,
         "image": "https://i.imgur.com/M0wtXxE.jpg"
@@ -68,15 +68,7 @@
       {
         "id": 8,
         "produto": "hardware",
-        "name": "Fonte Corsair VS500w",
-        "description": "Fonte Corsair VS500w",
-        "price": 299.99,
-        "image": "https://i.imgur.com/BhL6XdK.jpg"
-      },
-      {
-        "id": 9,
-        "produto": "hardware",
-        "name": "Water Placa mae B460M Pro4",
+        "name": "Placa mãe B460M Pro4",
         "description": "Placa mae Processadores Intel",
         "price": 949.99,
         "image": "https://i.imgur.com/ZWMpf7g.jpg"
